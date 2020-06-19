@@ -1,0 +1,9 @@
+.bg-maple{
+  background-image: url("https://image.yayimages.com/1600/photo/wood-grain-background-7751011.jpg");
+  height: 50vh;
+}
+
+.bg-dark{
+  background-color: black!important;
+  height: 50vh;
+}
